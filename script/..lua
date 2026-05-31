@@ -1,0 +1,1 @@
+print("dont be idiot")
